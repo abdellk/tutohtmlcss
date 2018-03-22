@@ -1,0 +1,23 @@
+#p1{
+	color: blue;
+} 
+
+.p1 {
+	color: grey;
+}
+
+#p2{
+	color: green;
+}
+
+.p2 {
+	font-weight: bolder;
+}
+
+/*#p3 { 
+	color: yellow;
+}*/
+
+.p3 {
+	color: pink;
+}
